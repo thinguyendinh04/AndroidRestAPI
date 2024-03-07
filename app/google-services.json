@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911249208040",
+    "project_id": "demoapp-676c1",
+    "storage_bucket": "demoapp-676c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911249208040:android:08ff2269f153c874f9cf5d",
+        "android_client_info": {
+          "package_name": "com.ndinhthi04.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC-u1R-9ine2knggy3Pirhn0BYBvBMS-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
